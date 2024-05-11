@@ -1,0 +1,6 @@
+/Users/yanirhaim/RiderProjects/B24 Ex01 Yanir Haim 807286 Mikhail Yagudaev 806634/Ex01_02/bin/Debug/Ex01_02.exe
+/Users/yanirhaim/RiderProjects/B24 Ex01 Yanir Haim 807286 Mikhail Yagudaev 806634/Ex01_02/bin/Debug/Ex01_02.pdb
+/Users/yanirhaim/RiderProjects/B24 Ex01 Yanir Haim 807286 Mikhail Yagudaev 806634/Ex01_02/obj/Debug/Ex01_02.csproj.AssemblyReference.cache
+/Users/yanirhaim/RiderProjects/B24 Ex01 Yanir Haim 807286 Mikhail Yagudaev 806634/Ex01_02/obj/Debug/Ex01_02.csproj.CoreCompileInputs.cache
+/Users/yanirhaim/RiderProjects/B24 Ex01 Yanir Haim 807286 Mikhail Yagudaev 806634/Ex01_02/obj/Debug/Ex01_02.exe
+/Users/yanirhaim/RiderProjects/B24 Ex01 Yanir Haim 807286 Mikhail Yagudaev 806634/Ex01_02/obj/Debug/Ex01_02.pdb
