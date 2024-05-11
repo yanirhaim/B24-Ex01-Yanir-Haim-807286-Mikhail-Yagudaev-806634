@@ -34,12 +34,11 @@ namespace Ex01_04
                 if (char.IsUpper(c)) uppercaseCount++;
                 else if (char.IsLower(c)) lowercaseCount++;
             }
+            
+            Console.WriteLine("Number of uppercase letters: " + uppercaseCount);
+            Console.WriteLine("Number of lowercase letters: " + lowercaseCount);
+            Console.ReadLine();
 
-            if (char.IsLetter(inputString[0])) // Assuming that the presence of one letter implies all are letters
-            {
-                Console.WriteLine("Number of uppercase letters: " + uppercaseCount);
-                Console.WriteLine("Number of lowercase letters: " + lowercaseCount);
-            }
         }
 
         static bool IsPalindrome(string i_inputString, int i_startIndex, int i_endIndex)
